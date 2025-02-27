@@ -1,2 +1,2 @@
 Objective 1. Quick intro about Git and GitHub. 
-Objective 2. Introduce some basic workflows. The goal is to work effectively. 
+Objective 2. Introduce some basic workflows so that collaborators can work effectively. 
