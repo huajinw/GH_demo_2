@@ -1,2 +1,2 @@
 # GH_demo_2
-this is for GH workshop in Feb
+This is the workshop material on how to collaborate in GitHub.
